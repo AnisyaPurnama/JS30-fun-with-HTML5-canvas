@@ -2,7 +2,7 @@
 
 >A static web page built with only HTML, CSS & JavaScript. Make a canvas in a window and drawing with mouse.
 
-![screen-shot]()
+![screen-shot](https://github.com/AnisyaPurnama/JS30-fun-with-HTML5-canvas/blob/master/project-planning/hyfCanvas.png?raw=true)
 
 [live link]( https://anisyapurnama.github.io/JS30-fun-with-HTML5-canvas/)
 
