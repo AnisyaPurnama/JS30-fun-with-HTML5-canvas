@@ -16,12 +16,10 @@
 - Declare the `<canvas>` in the `index.html` and set the size
 
 ## 2. User Story: Drawing on the canvas
-
-- Style the page with `style.css`
-
+ 
 Listener:
 
-- Listen for the `mousemove`event. So when we move the mouse it's going to `console.log``draw`with condition when `mousedown`is drawing = true and when `mouseup` is drawing = false
+- Listen for the `mousemove`event. So when we move the mouse it's going to `console.log``draw`with condition when `mousedown`is drawing = true and when `mouseup` & `mouseout` is drawing = false
 
 Handler:
 
